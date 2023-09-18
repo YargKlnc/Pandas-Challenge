@@ -52,7 +52,7 @@ Overall Students Per School Passing Both Math and Reading (%):
 
 Per School Summary:
 
-![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/2833d9d1-c010-42ae-ad61-1f67fa68823c)
+![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/cf3f101c-f7c9-409f-9f4b-4ec3026e419a)
 
 Highest-Performing Schools (by % Overall Passing):
 
