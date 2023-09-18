@@ -58,7 +58,7 @@ Highest-Performing Schools (by % Overall Passing):
 
 ![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/466e6800-c583-4826-93c4-8443bcdcdf00)
 
-Bottom Performing Schools (By % Overall Passing):
+Lowest Performing Schools (By % Overall Passing):
 
 ![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/32adff96-f094-4eed-997a-be2fcd1611e7)
 
