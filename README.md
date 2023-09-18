@@ -10,10 +10,6 @@ District Summary:
 
 ![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/4d484ea4-6fd2-48af-969b-30ec20f74e00)
 
-Per School Summary:
-
-![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/2833d9d1-c010-42ae-ad61-1f67fa68823c)
-
 School Types:
 
 ![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/8ae72ac8-3bfc-416c-86e3-7df33144cf96)
@@ -42,9 +38,21 @@ Students Per School Passing Both Math and Reading:
 
 ![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/0daf53e9-d2ba-417b-b7dc-b57b9129143e)
 
-Overall Students Per School Passing Both Math and Reading:
+Students Per School Passing Math (%):
+
+![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/4d5a9304-25f8-4349-a750-e64b6be7a6a3)
+
+Students Per School Passing Reading (%):
+
+![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/0e0296a9-fcc8-4592-a52c-3fa5ca853b6e)
+
+Overall Students Per School Passing Both Math and Reading (%):
 
 ![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/12092a73-f2bb-464b-a1b6-a9aa3128561a)
+
+Per School Summary:
+
+![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/2833d9d1-c010-42ae-ad61-1f67fa68823c)
 
 Highest-Performing Schools (by % Overall Passing):
 
@@ -53,6 +61,5 @@ Highest-Performing Schools (by % Overall Passing):
 Bottom Performing Schools (By % Overall Passing):
 
 ![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/32adff96-f094-4eed-997a-be2fcd1611e7)
-
 
 
