@@ -1,1 +1,8 @@
-sasas
+Conclusions:
+-Charter Schools have higher Passing Rates in Mathematics and Reading compared to District Schools
+-Students in Charter Schools obtain higher Average Scores compared to District Schools
+-Charter Schools Populations are less than 2300 students per school and have Higher Overall Passing Rates compared to District Schools
+-Highest Performing Schools are Charter Type Schools
+-Budget per student in Charter Schools are lower than District Schools 
+-Total School Budgets are higher in District Schools (also due to population of students) compared to Charter Schools
+-Schools with Spending per student less than $585 has higher Overall Passing Rates
