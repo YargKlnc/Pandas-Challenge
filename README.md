@@ -62,4 +62,12 @@ Bottom Performing Schools (By % Overall Passing):
 
 ![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/32adff96-f094-4eed-997a-be2fcd1611e7)
 
+Math Scores by Grade (over 100):
+
+![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/4868f434-8243-44a9-bd8d-729a8908fec4)
+
+Reading Scores by Grade (over 100):
+
+![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/dd26054f-0333-4220-b167-8b6292603f9e)
+
 
