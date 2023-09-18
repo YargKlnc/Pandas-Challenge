@@ -70,4 +70,22 @@ Reading Scores by Grade (over 100):
 
 ![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/dd26054f-0333-4220-b167-8b6292603f9e)
 
+School Summary with Spending Ranges Per Student:
 
+![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/0dbd008a-c52f-4df3-ad69-c9dbac7589e2)
+
+Scores (over 100) and Passing Rates (%) with Spending Ranges Per Student:
+
+![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/b5a496e8-ef64-4ca8-8198-b6db6f6acfd0)
+
+School Summary with School Type, Budgets, Scores, Passing Rates, Spending Ranges Per Student and Size Per School:
+
+![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/5bfac95e-61a2-4714-8602-655d7d8186f5)
+
+Average Scores and Passing Rates by School Size:
+
+![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/02be2fe6-80ce-4603-ae64-0c398d410d88)
+
+Average Scores and Passing Rates by School Type:
+
+![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/9fad9b7a-9bae-43b8-ab15-7fcd429c1c61)
