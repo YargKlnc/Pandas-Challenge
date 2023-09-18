@@ -10,6 +10,10 @@ District Summary:
 
 ![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/4d484ea4-6fd2-48af-969b-30ec20f74e00)
 
+Per School Summary:
+
+![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/2833d9d1-c010-42ae-ad61-1f67fa68823c)
+
 School Types:
 
 ![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/8ae72ac8-3bfc-416c-86e3-7df33144cf96)
@@ -52,5 +56,3 @@ Bottom Performing Schools (By % Overall Passing):
 
 
 
-Per School Summary:
-![image](https://github.com/YargKlnc/pandas-challenge/assets/142269763/2833d9d1-c010-42ae-ad61-1f67fa68823c)
